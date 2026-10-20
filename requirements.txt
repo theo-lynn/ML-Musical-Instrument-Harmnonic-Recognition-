@@ -1,0 +1,5 @@
+fastai>=2.7
+librosa>=0.10
+pandas
+scikit-learn
+kaggle
