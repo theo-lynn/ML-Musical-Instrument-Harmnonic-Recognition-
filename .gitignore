@@ -1,0 +1,13 @@
+# Dataset and generated files (recreated by the notebook)
+data/
+spectrograms/
+*.zip
+*.pkl
+models/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+kaggle.json
